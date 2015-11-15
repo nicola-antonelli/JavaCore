@@ -1,5 +1,5 @@
 # JavaCore
-# How to add another java class to your project with NetBeans
+# How create java class with NetBeans
 
 Step 1: Create a new Java Class 
 
